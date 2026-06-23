@@ -1,0 +1,106 @@
+Making changes:
+nproc
+make -j# (# = result from nproc
+
+
+Moves to completely overhaul:  
+vice grip:  60 pwr steel trapping move
+cut:  70 pwr steel high crit
+sweet scent:  50 pwr grass move w/ effect
+beat up:  45 pwr hits twice
+focus punch:  recharge
+dragon claw: 85 high crit
+rollout/ice ball- 40 pwr priority (accelerock/ice shard)
+covet- (shadow sneak)
+grudge- 50 pwr trapping
+strength:  95 pwr rock move
+foresight:  70 pwr never miss psychic move
+spike cannon:  steel
+
+razor wind:  (air slash)
+fly:  dual wing
+thief:  (dark pulse)
+sky attack:  (brave bird)
+uproar- electric move, no effect (overdrive)
+slam: (iron head)
+mist:  (chilling water)
+snatch:  60 pwr (ceaseless edge)
+hyper beam:  (astral barrage)
+odor sleuth:  (sludge wave)
+fury cutter:  85 pwr high crit (X scissor)
+rage:  (nasty plot)
+flash:  55 pwr electric spread move that lowers speed
+
+thrash:  130 pwr dragon -2 atk (draco meteor)
+baton pass:  130 pwr -2 atk bug
+mud sport:  130 pwr -2 atk 
+whirlwind:  130 pwr -2 atk
+petal dance:  (leaf storm)
+water sport:  water leaf storm/overheat
+roar:  130 pwr -2 spa electric
+
+outrage/megahorn:  recoil
+
+todo:  change animations (+ move names/descriptions maybe?) of above 
+
+adjust priority:  
+-3:  ohko moves
+-1:  belly drum
+1:  bide, transform, conversion, conversion2, spikes, perish song, weather setting, psych up, torment, memento, assist, camouflage, reflect, light screen, safeguard, haze
+modern priority
+
+added snow warning as ability
+
+Boss Fights
+Rival 1:  Lv 5
+Forest Grunt:  Lv 9
+Roxanne:  Lv 15
+Tunnel Grunt:  Lv 17
+Rival:  Lv 17
+Brawly:  Lv 19
+Slateport Grunts:  Lv 21
+Rival:  Lv 23
+Wally:  Lv 24
+Wattson:  Lv 27
+Winstrates:  Lv 28
+Tabitha:  Lv 31
+Maxie:  Lv 32
+Flannery:  Lv 34
+Norman:  Lv 36
+Weather Institute:  Lv 39
+Bridge Rival:  Lv 40
+Winona:  Lv 42
+Lilycove Rival:  Lv 45
+Pyre:  Lv 47
+Tabitha:  Lv 49
+Maxie:  Lv 50
+Matt:  Lv 52
+T&L:  Lv 54
+Space Center:  Lv 56
+Shelly:  Lv 58
+Archie:  Lv 59
+Juan:  Lv 62
+Wally:  Lv 65
+E4/Champ:  Lv 70
+Steven:  Lv 75
+
+berries:
+sitrus is modern version (heal 1/4 hp at 1/2 hp)
+pomeg is old sitrus (30 hp)
+durin/belue recover 50/100 hp static
+figy/wiki/mago/aguav/iapapa are modern (heal 1/2 hp at 1/4 hp)
+(spicy/dry/sweet/bitter/sour)
+kelpsey/qualot/hondew/grepa/tamato are sitrus + confusion
+razz/bluk/nanab/wepear/pinap are heal 1/3 hp at 1/3 hp + confusion (same as figy etc)
+corn/magost/rabuta/nomel/spelon/pamtre/watmel same as liechi/ganlon/salac/petaya/apicot/lansat/starf but trigger instantly (I think)
+
+Mults of 16:  16, 32, 48, 64, 80, 96, 112, 128, 144, 160, 176, 192, 208, 224, 240, 256, 272, 288, 304, 320, 336, 352, 368, 384, 400, 416, 432, 448,
+
+hold items:
+added choice scarf/specs (since band is in game)
+add wide lens?
+single type boosting now modern (20% instead of 10% stuffs, or 10% instead of 5%)
+Accuracy boosting?
+trade evos = use up grade
+check sturdy + lightningrod
+run away = escape from trapping abilities?
